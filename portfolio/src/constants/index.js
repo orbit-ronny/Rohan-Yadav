@@ -43,6 +43,7 @@ export const PROJECTS = [
   {
     title: "Quiz App",
     image: project2,
+    link: "https://quiz-app-6umz.vercel.app/",
     description:
       "A simple quiz application built using HTML, CSS, and JavaScript, featuring multiple-choice questions, score tracking, and instant result evaluation.",
     technologies: ["HTML", "CSS", "JS"],
@@ -50,6 +51,7 @@ export const PROJECTS = [
   {
     title: "To Do List App",
     image: project3,
+    link: "https://to-do-list-kappa-ten-13.vercel.app/",
     description:
       "A simple To-Do List application built using HTML, CSS, and JavaScript, allowing users to add, edit, delete, and manage daily tasks efficiently.",
     technologies: ["HTML", "CSS", "JS"],
@@ -57,6 +59,7 @@ export const PROJECTS = [
   {
     title: "Scroll Animation Website",
     image: project4,
+    link: "https://scroll-website-taupe.vercel.app/",
     description:
       "A visually engaging 3D animated scrolling website built using modern web technologies, featuring smooth scroll-based animations, interactive elements, immersive 3D effects, and responsive design for an enhanced user experience."
 ,
@@ -65,6 +68,7 @@ export const PROJECTS = [
   {
     title: "Doc Mini App",
     image: project5,
+    link: "https://docs-hazel-pi-51.vercel.app/",
     description:
       "A Docs Mini App developed using React and Framer Motion, featuring animated interactions, draggable document cards, and a clean, responsive design for seamless note management."
 ,
