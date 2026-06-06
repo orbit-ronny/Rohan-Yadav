@@ -23,7 +23,7 @@ const Navbar = () => {
             aria-label="GitHub">
                 <FaGithub />
             </a>
-            <a href="https://www.instagram.com/in/your-instagram-profile" 
+            <a href="https://www.instagram.com/rohan_yadav._.14/#" 
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram">
